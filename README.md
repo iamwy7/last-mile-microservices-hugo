@@ -1,4 +1,4 @@
-# last-mile-delivery-microservices-hugo
+# last-mile-delivery-hugo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/78f4c59e-d78f-44f1-9528-e044e03bb708/deploy-status)](https://app.netlify.com/sites/direct-delivery/deploys)
 
 
